@@ -1,0 +1,1101 @@
+﻿BUILDINGKEY,FLOORKEY,FLOORNAME,NURSEKEY,NURSENAME,ROOMKEY,ROOMNAME,BEDKEY,BEDNAME,BEDSTATUS
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),34,101-1,Occupied Discharge
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),35,101-1P,Occupied Discharge
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),36,101-2,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),37,101-2P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),38,101-3,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),39,101-3P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),40,101-5,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),41,101-5P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),42,101-6,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),43,101-6P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),44,101-7,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),45,101-7P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),46,101-8,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),47,101-8P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),48,101-9,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),49,101-9P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),50,101-10,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),51,101-10P,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),52,101-11,Vacant Dirty
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),53,101-11P,Available
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),54,101-12,Available
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),55,101-12P,Available
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),56,101-13P,Available
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),57,101-15P,Available
+5,9,First Floor NT,00:00.0,Daycare Surgery,33,Daycare NT (Day Care),58,101-16P,Available
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),61,250-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),62,250-2,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),63,250-3,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),64,250-5,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),65,250-6,Available
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),66,250-7,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),67,250-8,Available
+5,10,Second Floor NT,00:00.0,NT ICU,60,ICU NT  (ICU/CCU),68,250-9,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,84,Room 255 (Single Executive),85,255-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,86,Room 256 (Double Bed),110,256-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,86,Room 256 (Double Bed),111,256-2,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,87,Room 257 (Double Bed),112,257-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,87,Room 257 (Double Bed),113,257-2,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,88,Room 258 (Double Bed),114,258-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,88,Room 258 (Double Bed),115,258-2,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,89,Room 260 (Single Bed),116,260-1,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,90,Room 261 (Single Bed),117,261-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,91,Room 262 (Single Bed),118,262-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,92,Room 263 (Single Bed),119,263-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,93,Room 264 (Single Bed),120,264-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,94,Room 265 (Single Bed),121,265-1,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,95,Room 266 (Single Bed),122,266-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,96,Room 267 (Single Bed),123,267-1,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,97,Room 268 (Suite),124,268-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,98,Room 269 (Single Bed),125,269-1,Vacant Dirty
+5,10,Second Floor NT,00:00.0,NT Ward 2D,99,Room 270 (Single Bed),126,270-1,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,100,Room 271 (Single Bed),127,271-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,101,Room 272 (Single Bed),128,272-1,Occupied Discharge
+5,10,Second Floor NT,00:00.0,NT Ward 2D,102,Room 273 (Four Bedded),129,273-3,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,102,Room 273 (Four Bedded),130,273-4,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,103,Room 274 (Double Bed),131,274-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,103,Room 274 (Double Bed),132,274-2,Vacant Dirty
+5,10,Second Floor NT,00:00.0,NT Ward 2D,104,Room 275 (Double Bed),133,275-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,104,Room 275 (Double Bed),134,275-2,Vacant Dirty
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),135,276-1,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),136,276-2,Occupied(Female)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),153,276-3,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),154,276-4,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),155,276-5,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,105,Room 276 (Phototherapy),156,276-6,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,106,Room 277 (Double Bed),137,277-1,Vacant Dirty
+5,10,Second Floor NT,00:00.0,NT Ward 2D,106,Room 277 (Double Bed),138,277-2,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,107,Room 278 (Single Bed),139,278-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,108,Room 279 (Single Bed),140,279-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,109,Room 280 (Single Bed),141,280-1,Occupied(Male)
+5,10,Second Floor NT,00:00.0,NT Ward 2D,143,Room 281 (Suite),157,281-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,144,Room 282 (Suite),158,282-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,145,Room 283 (Single Bed),159,283-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,146,Room 284 (Single Bed),160,284-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,147,Room 285 (Single Bed),161,285-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,148,Room 288 (Double Bed),162,288-1,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,148,Room 288 (Double Bed),163,288-2,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,148,Room 288 (Double Bed),1750,288-S,Available
+5,10,Second Floor NT,00:00.0,NT Ward 2D,149,Room 289 (Double Bed),164,289-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,149,Room 289 (Double Bed),165,289-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,149,Room 289 (Double Bed),1751,289-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),166,290-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),167,290-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),1752,290-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),168,291-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),169,291-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),1753,291-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,1403,Room 292-1E (Single Executive),1404,292-1E,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),70,251-1,Occupied(Female)
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),71,251-2,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),72,251-3,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),73,251-5,Occupied(Male)
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1059,299-1,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1060,299-2,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1061,299-3,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1062,299-3A,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1063,299-5,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1064,299-6,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1065,299-7,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1066,299-8,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1483,D 299-1,Vacant Dirty
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1484,D 299-2,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1485,D 299-3,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1486,D 299-4,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1487,D 299-5,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1488,D 299-6,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1489,D 299-7,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1490,D 299-8,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1491,D 299-9,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1492,D 299-10,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1353,252-1,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1354,252-2,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1355,252-3,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1370,252-5,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1371,252-6,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1372,252-7,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1373,252-8,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1374,252-9,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),175,350-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),176,350-2,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),177,350-3,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),178,350-4,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),179,350-5,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),180,350-7,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),181,350-6,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),182,350-8,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),183,350-9,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),184,350-10,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),185,350-11,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),186,350-12,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),187,350-13,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),188,350-14,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),189,350-15,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),190,350-16,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),191,350-17,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),192,350-18,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),193,350-19,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),194,350-20,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),195,350-21,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),196,350-22,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),197,350-23,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),198,350-24,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),199,350-25,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),200,350-26,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),201,350-27,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),202,350-28,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),203,350-29,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),204,350-30,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),205,350-31,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),206,350-32,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),207,350-33,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),208,350-34,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),209,350-35,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),210,350-36,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),211,350-37,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),212,350-38,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),213,350-39,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),214,350-40,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),235,351-1,Occupied(Male)
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),236,351-2,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),237,351-3,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),238,351-4,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),239,351-5,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),240,352-1,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),241,352-2,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),242,352-3,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),243,352-4,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),272,353-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),273,353-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),1694,353-1E,Available
+5,11,Third Floor NT,245,NT Ward 3D,246,Room 354 (Double Bed),274,354-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,246,Room 354 (Double Bed),275,354-2,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,247,Room 355 (Single Bed),276,355-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,248,Room 356 (Single Bed),278,356-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,249,Room 357 (Single Bed),279,357-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,250,Room 358 (Single Bed),280,358-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,251,Room 359 (Single Bed),281,359-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,252,Room 360 (Single Bed),282,360-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,253,Room 361 (Single Bed),283,361-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,254,Room 362 (Single Bed),284,362-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,255,Room 363 (Single Bed),285,363-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,256,Room 364 (Single Bed),286,364-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,257,Room 365 (Suite),287,365-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,257,Room 365 (Suite),1773,365-P,Available
+5,11,Third Floor NT,245,NT Ward 3D,258,Room 366 (Single Bed),288,366-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,259,Room 367 (Single Bed),289,367-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,260,Room 368 (Single Bed),290,368-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,261,Room 369 (Single Bed),291,369-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,262,Room 370 (Double Bed),292,370-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,262,Room 370 (Double Bed),1272,370-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,263,Room 371 (Double Bed),293,371-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,263,Room 371 (Double Bed),294,371-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),295,372-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),296,372-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),1695,372-1E,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),297,373-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),298,373-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),1696,373-1E,Available
+5,11,Third Floor NT,245,NT Ward 3D,266,Room 374 (Double Bed),299,374-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,266,Room 374 (Double Bed),300,374-2,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,267,Room 375 (Double Bed),301,375-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,267,Room 375 (Double Bed),302,375-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,268,Room 376 (Single Bed),303,376-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,269,Room 377 (Single Bed),304,377-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,270,Room 378 (Single Bed),305,378-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,271,Room 379 (Single Bed),306,379-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1338,349-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1339,349-2,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1340,349-3,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1341,349-4,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1342,349-5,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1343,349-6,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1344,349-7,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1345,349-8,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1346,349-9,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1347,349-10,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1067,490-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1262,490-13,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1263,490-14,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1264,490-15,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1265,490-16,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1266,490-17,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1267,490-18,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1268,490-19,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1269,490-20,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1329,490-2,Available
+5,12,Fourth Floor NT,307,NT Labour Room,310,Room 491 (Observation Room),1068,491-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1069,495-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1070,495-2,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1071,495-3,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1072,495-3A,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1073,495-5,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1074,495-6,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1075,495-7,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1076,495-8,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1077,495-9,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1078,495-10,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,312,Room 451 (Single Bed),336,451-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,313,Room 452 (Single Bed),337,452-1,Occupied(Male)
+5,12,Fourth Floor NT,308,NT Ward 4D,314,Room 453 (Single Bed),338,453-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,314,Room 453 (Single Bed),1328,453A-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,315,Room 454 (Single Bed),339,454-1,Blocked
+5,12,Fourth Floor NT,308,NT Ward 4D,316,Room 455 (Single Bed),340,455-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,317,Room 456 (Single Bed),341,456-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,318,Room 457 (Single Bed),342,457-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,319,Room 458 (Single Bed),343,458-1,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,320,Room 459 (Suite),344,459-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,321,Room 460 (Single Bed),345,460-1,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,322,Room 461 (Single Bed),346,461-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,323,Room 462 (Single Bed),347,462-1,Occupied(Female)
+5,12,Fourth Floor NT,308,NT Ward 4D,324,Room 463 (Single Bed),348,463-1,Occupied(Female)
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),349,464-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),350,464-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),1766,464-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),351,465-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),352,465-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),1767,465-SS,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),353,466-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),354,466-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),1768,466-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),355,467-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),356,467-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),1769,467-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),357,468-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),358,468-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),1770,468-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),359,469-3,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),360,469-4,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),1771,469-S,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),361,470-3,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),362,470-4,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),1772,470-S,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,332,Room 471 (Executive Suite),1225,471-1E,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,333,Room 472 (Executive Suite),1226,472-1E,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,334,Room 450 (Single Bed),335,450-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,366,Room 550 (Single Bed),386,550-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,367,Room 551 (Single Bed),387,551-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,368,Room 552 (Single Bed),388,552-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,369,Room 553 (Single Bed),389,553-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,370,Room 554 (Single Bed),390,554-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,371,Room 555 (Single Bed),391,555-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,372,Room 556 (Single Bed),392,556-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,373,Room 557 (Single Bed),393,557-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,374,Room 558 (Single Bed),394,558-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,375,Room 559 (Single Bed),395,559-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,376,Room 560 (Single Bed),396,560-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,377,Room 561 (Single Bed),397,561-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,378,Room 562 (Single Bed),398,562-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,379,Room 563 (Double Bed),399,563-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,379,Room 563 (Double Bed),400,563-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,380,Room 564 (Double Bed),401,564-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,380,Room 564 (Double Bed),402,564-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,381,Room 565 (Four Bedded),403,565-3,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,381,Room 565 (Four Bedded),404,565-4,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,382,Room 566 (Double Bed),405,566-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,382,Room 566 (Double Bed),406,566-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,383,Room 567 (Double Bed),407,567-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,383,Room 567 (Double Bed),408,567-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,384,Room 568 (Four Bedded),409,568-3,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,384,Room 568 (Four Bedded),410,568-4,Available
+5,13,Fifth Floor NT,411,NT Ward 5D,412,Room 569 (Single Bed),432,569-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,413,Room 570 (Single Bed),433,570-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,414,Room 571 (Single Bed),434,571-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,415,Room 572 (Single Bed),435,572-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,416,Room 573 (Single Bed),436,573-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,417,Room 574 (Single Bed),437,574-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,418,Room 575 (Single Bed),438,575-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,419,Room 576 (Single Bed),439,576-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,420,Room 577 (Single Bed),440,577-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,421,Room 578 (Suite),441,578-1,Occupied Discharge
+5,13,Fifth Floor NT,411,NT Ward 5D,422,Room 579 (Single Bed),442,579-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,423,Room 580 (Single Bed),443,580-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,424,Room 581 (Single Bed),444,581-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,425,Room 582 (Single Bed),445,582-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,426,Room 583 (Four Bedded),446,583-3,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,426,Room 583 (Four Bedded),447,583-4,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,427,Room 584 (Four Bedded),1270,584-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,427,Room 584 (Four Bedded),1271,584-2,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,428,Room 585 (Double Bed),450,585-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,428,Room 585 (Double Bed),451,585-2,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,429,Room 586 (Double Bed),452,586-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,429,Room 586 (Double Bed),453,586-2,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,430,Room 587 (Double Bed),454,587-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,430,Room 587 (Double Bed),455,587-2,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,431,Room 588 (Four Bedded),1326,588-3,Available
+5,13,Fifth Floor NT,411,NT Ward 5D,431,Room 588 (Four Bedded),1327,588-4,Available
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),488,G03-1,Vacant Dirty
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),489,G03-2,Vacant Dirty
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),490,G03-3,Vacant Dirty
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),491,G03-4,Vacant Dirty
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1630,G03-5,Available
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1631,G03-6,Available
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1632,G03-7,Available
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1633,G03-8,Available
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1634,G03-9,Vacant Dirty
+6,456,Ground Floor ST,487,Daycare Imaging,1452,Room G03 (Day Care),1635,G03-10,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1580,A01,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1581,A02,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1582,A03,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1583,A04,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1584,A05,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1585,A06,Occupied Discharge
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1586,A07,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1587,A08,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1588,A09,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1589,A10,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1590,A11,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1591,A12,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1592,A13,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1593,A14,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1594,A15,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1595,A16,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1596,A17,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1597,A18,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1598,A19,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1599,A20,Available
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1600,A21,Occupied Discharge
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1601,A22,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1602,A23,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1603,A24,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1604,A25,Available
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1605,A26,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1606,A27,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1607,A28,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1608,A29,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1609,A30,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1610,A31D,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1611,A32D,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1612,A33D,Available
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1613,A34D,Vacant Dirty
+6,457,First Floor ST,1567,Daycare Haemato & Onco Adult,1615,Haematology & Oncology Daycare Adult (Day Care Chemo),1614,A35D,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1569,P01,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1570,P02,Available
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1571,P03,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1572,P04,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1573,P05,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1574,P06,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1575,P07,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1576,P08,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1577,P09,Vacant Dirty
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1578,P10,Available
+6,457,First Floor ST,1568,Daycare Haemato & Onco Paed,1616,Haematology & Oncology Daycare Paeds (Day Care Chemo (Private)),1579,P11,Vacant Dirty
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),508,201-1,Available
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),509,201-2,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),510,201-3,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),511,201-4,Available
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),512,201-5,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),513,201-6,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),514,201-7,Available
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),515,201-8,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),516,201-9,Available
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),517,201-10,Occupied(Male)
+6,458,Second Floor ST,506,ST CCU,507,CCU Room 201 ST (ICU/CCU),1229,201-3A,Occupied(Female)
+6,458,Second Floor ST,519,ST Ward 2A,518,Room 206 (Executive Suite),1227,206-1E,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,520,Room 207 (Double Bed),542,207-1,Occupied(Female)
+6,458,Second Floor ST,519,ST Ward 2A,520,Room 207 (Double Bed),543,207-2,Available
+6,458,Second Floor ST,519,ST Ward 2A,521,Room 208 (Double Bed),546,208-1,Occupied(Female)
+6,458,Second Floor ST,519,ST Ward 2A,521,Room 208 (Double Bed),547,208-2,Available
+6,458,Second Floor ST,519,ST Ward 2A,522,Room 209 (Double Bed),548,209-1,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,522,Room 209 (Double Bed),549,209-2,Occupied Discharge
+6,458,Second Floor ST,519,ST Ward 2A,523,Room 210 (Double Bed),550,210-1,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,523,Room 210 (Double Bed),551,210-2,Available
+6,458,Second Floor ST,519,ST Ward 2A,524,Room 211 (Double Bed),544,211-1,Available
+6,458,Second Floor ST,519,ST Ward 2A,524,Room 211 (Double Bed),545,211-2,Available
+6,458,Second Floor ST,519,ST Ward 2A,525,Room 212 (Single Bed),553,212-1,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,526,Room 213 (Single Bed),554,213-1,Occupied Discharge
+6,458,Second Floor ST,519,ST Ward 2A,527,Room 214 (Single Bed),555,214-1,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,528,Room 215 (Single Bed),556,215-1,Occupied(Female)
+6,458,Second Floor ST,519,ST Ward 2A,529,Room 216 (Single Bed),557,216-1,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,530,Room 217 (Single Bed),552,217-1,Occupied Discharge
+6,458,Second Floor ST,519,ST Ward 2A,531,Room 218 (Four Bedded),559,218-3,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,531,Room 218 (Four Bedded),560,218-4,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,532,Room 219 (Double Bed),561,219-1,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,532,Room 219 (Double Bed),562,219-2,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,533,Room 220 (Executive Suite),1325,220-1E,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,534,Room 221 (Double Bed),567,221-1,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,534,Room 221 (Double Bed),568,221-2,Occupied Discharge
+6,458,Second Floor ST,519,ST Ward 2A,535,Room 222 (Double Bed),569,222-1,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,535,Room 222 (Double Bed),570,222-2,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,537,Room 223 (Single Bed),563,223-1,Vacant Dirty
+6,458,Second Floor ST,519,ST Ward 2A,538,Room 224 (Single Bed),564,224-1,Occupied(Male)
+6,458,Second Floor ST,519,ST Ward 2A,539,Room 225 (Single Bed),565,225-1,Occupied(Female)
+6,458,Second Floor ST,519,ST Ward 2A,540,Room 226 (Single Bed),566,226-1,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,571,Room 301 (Double Bed),592,301-1,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,571,Room 301 (Double Bed),593,301-2,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,572,Room 302 (Double Bed),594,302-1,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,572,Room 302 (Double Bed),595,302-2,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,573,Room 303 (Double Bed),596,303-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,573,Room 303 (Double Bed),597,303-2,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,574,Room 304 (Double Bed),598,304-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,574,Room 304 (Double Bed),599,304-2,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,575,Room 305 (Double Bed),600,305-1,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,575,Room 305 (Double Bed),601,305-2,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,576,Room 306 (Suite),591,306-1,Vacant Dirty
+6,459,Third Floor ST,1017,ST Ward 3A,577,Room 307 (Single Bed),602,307-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,578,Room 308 (Single Bed),603,308-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,579,Room 309 (Double Bed),604,309-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,579,Room 309 (Double Bed),605,309-2,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,580,Room 310 (Double Bed),612,310-1,Available
+6,459,Third Floor ST,1017,ST Ward 3A,580,Room 310 (Double Bed),613,310-2,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,581,Room 311 (Double Bed),614,311-1,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,581,Room 311 (Double Bed),615,311-2,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,582,Room 312 (Double Bed),616,312-1,Vacant Dirty
+6,459,Third Floor ST,1017,ST Ward 3A,582,Room 312 (Double Bed),617,312-2,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,583,Room 313 (Double Bed),618,313-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,583,Room 313 (Double Bed),619,313-2,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,584,Room 314 (Double Bed),620,314-1,Available
+6,459,Third Floor ST,1017,ST Ward 3A,584,Room 314 (Double Bed),621,314-2,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,585,Room 315 (Single Bed),606,315-1,Occupied(Male)
+6,459,Third Floor ST,1017,ST Ward 3A,586,Room 316 (Single Bed),607,316-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,587,Room 317 (Single Bed),608,317-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,588,Room 318 (Single Bed),609,318-1,Occupied(Female)
+6,459,Third Floor ST,1017,ST Ward 3A,589,Room 319 (Single Bed),610,319-1,Occupied Discharge
+6,459,Third Floor ST,1017,ST Ward 3A,590,Room 320 (Single Bed),611,320-1,Occupied(Male)
+6,459,Third Floor ST,1018,ST Ward 3B,622,Room 321 (Four Bedded),641,321-3,Available
+6,459,Third Floor ST,1018,ST Ward 3B,622,Room 321 (Four Bedded),644,321-4,Available
+6,459,Third Floor ST,1018,ST Ward 3B,622,Room 321 (Four Bedded),1756,321-S,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,623,Room 322 (Four Bedded),642,322-4,Available
+6,459,Third Floor ST,1018,ST Ward 3B,623,Room 322 (Four Bedded),643,322-3,Available
+6,459,Third Floor ST,1018,ST Ward 3B,623,Room 322 (Four Bedded),1757,322-S,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,624,Room 323  (Double Bed),645,323-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,624,Room 323  (Double Bed),646,323-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,624,Room 323  (Double Bed),1758,323-SS,Available
+6,459,Third Floor ST,1018,ST Ward 3B,625,Room 324 (Double Bed),650,324-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,625,Room 324 (Double Bed),651,324-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,625,Room 324 (Double Bed),1759,324-SS,Occupied(Male)
+6,459,Third Floor ST,1018,ST Ward 3B,626,Room 325 (Four Bedded),648,325-3,Available
+6,459,Third Floor ST,1018,ST Ward 3B,626,Room 325 (Four Bedded),649,325-4,Available
+6,459,Third Floor ST,1018,ST Ward 3B,626,Room 325 (Four Bedded),1760,325-S,Available
+6,459,Third Floor ST,1018,ST Ward 3B,627,Room 326 (Suite),1520,326-1SS,Occupied Discharge
+6,459,Third Floor ST,1018,ST Ward 3B,628,Room 327 (Single Bed),1521,327-1SS,Available
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),654,329-1,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),655,329-2,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),656,329-3,Occupied(Male)
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),657,329-4,Available
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),1685,329-H1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),1686,329-H2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),1688,329-H3,Available
+6,459,Third Floor ST,1018,ST Ward 3B,630,Room 329 (Four Bedded),1689,329-H4,Available
+6,459,Third Floor ST,1018,ST Ward 3B,631,Room 330 (Double Bed),659,330-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,631,Room 330 (Double Bed),660,330-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,631,Room 330 (Double Bed),1761,330-SS,Occupied Discharge
+6,459,Third Floor ST,1018,ST Ward 3B,632,Room 331 (Double Bed),661,331-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,632,Room 331 (Double Bed),662,331-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,632,Room 331 (Double Bed),1762,331-SS,Available
+6,459,Third Floor ST,1018,ST Ward 3B,633,Room 332 (Double Bed),663,332-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,633,Room 332 (Double Bed),664,332-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,633,Room 332 (Double Bed),1763,332-SS,Available
+6,459,Third Floor ST,1018,ST Ward 3B,634,Room 333 (Double Bed),665,333-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,634,Room 333 (Double Bed),666,333-2,Available
+6,459,Third Floor ST,1018,ST Ward 3B,634,Room 333 (Double Bed),1764,333-SS,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,635,Room 334 (Double Bed),667,334-1,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,635,Room 334 (Double Bed),668,334-2,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,635,Room 334 (Double Bed),1765,334-SS,Available
+6,459,Third Floor ST,1018,ST Ward 3B,636,Room 335 (Single Bed),658,335-1,Vacant Dirty
+6,459,Third Floor ST,1018,ST Ward 3B,637,Room 336 (Single Bed),669,336-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,638,Room 337 (Single Bed),670,337-1,Occupied Discharge
+6,459,Third Floor ST,1018,ST Ward 3B,639,Room 338 (Single Bed),671,338-1,Available
+6,459,Third Floor ST,1018,ST Ward 3B,640,Room 339 (Single Bed),672,339-1,Available
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),675,421-1,Occupied(Male)
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),676,421-2,Occupied(Male)
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),677,421-3,Available
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),678,421-4,Occupied(Female)
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),679,421-5,Occupied(Male)
+6,460,Fourth Floor ST,673,ST HDU,674,Room 421 (HDU),1228,421-6,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,682,Room 401 (Double Bed),703,401-1,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,682,Room 401 (Double Bed),704,401-2,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,682,Room 401 (Double Bed),1726,401-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,683,Room 402 (Double Bed),705,402-1,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,683,Room 402 (Double Bed),706,402-2,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,683,Room 402 (Double Bed),1729,402-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,684,Room 403 (Double Bed),707,403-1,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,684,Room 403 (Double Bed),708,403-2,Occupied(Female)
+6,460,Fourth Floor ST,680,ST Ward 4A,684,Room 403 (Double Bed),1730,403-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,685,Room 404 (Double Bed),709,404-1,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,685,Room 404 (Double Bed),710,404-2,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,685,Room 404 (Double Bed),1731,404-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,686,Room 405 (Double Bed),711,405-1,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,686,Room 405 (Double Bed),712,405-2,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,686,Room 405 (Double Bed),1732,405-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,687,Room 406 (Deluxe Suite),702,406-1,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,688,Room 407 (Single Bed),713,407-1,Occupied(Female)
+6,460,Fourth Floor ST,680,ST Ward 4A,689,Room 408 (Single Bed),714,408-1,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,690,Room 409 (Double Bed),715,409-1,Occupied(Female)
+6,460,Fourth Floor ST,680,ST Ward 4A,690,Room 409 (Double Bed),716,409-2,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,690,Room 409 (Double Bed),1733,409-SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,691,Room 410 (Four Bedded),717,410-3,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,691,Room 410 (Four Bedded),718,410-4,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,691,Room 410 (Four Bedded),1734,410-S,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,692,Room 411 (Four Bedded),720,411-3,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,692,Room 411 (Four Bedded),721,411-4,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,692,Room 411 (Four Bedded),1735,411-S,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,693,Room 412 (Four Bedded),722,412-3,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,693,Room 412 (Four Bedded),723,412-4,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,693,Room 412 (Four Bedded),1736,412-S,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,694,Room 413 (Four Bedded),724,413-3,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,694,Room 413 (Four Bedded),725,413-4,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,694,Room 413 (Four Bedded),1737,413-S,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,695,Room 414 (Single Bed),719,414-1,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,695,Room 414 (Single Bed),1518,414-1SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,695,Room 414 (Single Bed),1738,414-ISO,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,695,Room 414 (Single Bed),1775,414-ICU,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,697,Room 416 (Single Bed),727,416-1,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,697,Room 416 (Single Bed),1519,416-1SS,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,697,Room 416 (Single Bed),1739,416-ISO,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,697,Room 416 (Single Bed),1774,416-ICU,Available
+6,460,Fourth Floor ST,680,ST Ward 4A,698,Room 417 (Single Bed),728,417-1,Occupied(Male)
+6,460,Fourth Floor ST,680,ST Ward 4A,699,Room 418 (Single Bed),729,418-1,Occupied Discharge
+6,460,Fourth Floor ST,680,ST Ward 4A,700,Room 419 (Single Bed),730,419-1,Vacant Dirty
+6,460,Fourth Floor ST,680,ST Ward 4A,701,Room 420 (Single Bed),731,420-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,732,Room 422 (Double Bed),749,422-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,732,Room 422 (Double Bed),750,422-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,732,Room 422 (Double Bed),1740,422-SS,Occupied Discharge
+6,460,Fourth Floor ST,681,ST Ward 4B,733,Room 423 (Single Bed),751,423-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,734,Room 424 (Single Bed),753,424-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,735,Room 425 (Single Bed),754,425-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,736,Room 426 (Single Bed),752,426-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,737,Room 427 (Double Bed),755,427-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,737,Room 427 (Double Bed),757,427-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,737,Room 427 (Double Bed),1741,427-SS,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,738,Room 428 (Double Bed),758,428-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,738,Room 428 (Double Bed),759,428-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,738,Room 428 (Double Bed),1742,428-SS,Occupied(Male)
+6,460,Fourth Floor ST,681,ST Ward 4B,739,Room 429 (Double Bed),760,429-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,739,Room 429 (Double Bed),761,429-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,739,Room 429 (Double Bed),1743,429-SS,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,740,Room 430 (Double Bed),762,430-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,740,Room 430 (Double Bed),763,430-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,740,Room 430 (Double Bed),1744,430-SS,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,741,Room 431 (Double Bed),764,431-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,741,Room 431 (Double Bed),765,431-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,741,Room 431 (Double Bed),1745,431-SS,Occupied(Female)
+6,460,Fourth Floor ST,681,ST Ward 4B,742,Room 432 (Double Bed),766,432-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,742,Room 432 (Double Bed),767,432-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,742,Room 432 (Double Bed),1746,432-SS,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,743,Room 433 (Double Bed),768,433-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,743,Room 433 (Double Bed),769,433-2,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,743,Room 433 (Double Bed),1747,433-SS,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,744,Room 434 (Single Bed),756,434-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,745,Room 435 (Single Bed),770,435-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,746,Room 436 (Single Bed),771,436-1,Vacant Dirty
+6,460,Fourth Floor ST,681,ST Ward 4B,747,Room 437 (Single Bed),772,437-1,Available
+6,460,Fourth Floor ST,681,ST Ward 4B,748,Room 438 (Single Bed),773,438-1,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,790,Room 501 (Double Bed),826,501-1,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,790,Room 501 (Double Bed),827,501-2,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,791,Room 502 (Double Bed),829,502-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,791,Room 502 (Double Bed),830,502-2,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,792,Room 503 (Double Bed),831,503-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,792,Room 503 (Double Bed),832,503-2,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,793,Room 504 (Double Bed),833,504-1,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,793,Room 504 (Double Bed),834,504-2,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,794,Room 505 (Double Bed),835,505-1,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,794,Room 505 (Double Bed),836,505-2,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,795,Room 506 (Double Bed),837,506-1,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,795,Room 506 (Double Bed),838,506-2,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,796,Room 507 (Single Bed),828,507-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,797,Room 508 (Single Bed),841,508-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,798,Room 509 (Single Bed),842,509-1,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,799,Room 510 (Single Bed),843,510-1,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,800,Room 511 (Single Bed),844,511-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,801,Room 512 (Single Bed),845,512-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,802,Room 513 (Double Bed),839,513-1,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,802,Room 513 (Double Bed),840,513-2,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,803,Room 514 (Double Bed),846,514-1,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,803,Room 514 (Double Bed),847,514-2,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,804,Room 515 (Four Bedded),848,515-3,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,804,Room 515 (Four Bedded),849,515-4,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,805,Room 516 (Four Bedded),850,516-3,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,805,Room 516 (Four Bedded),851,516-4,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,806,Room 517 (Double Bed),852,517-1,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,806,Room 517 (Double Bed),853,517-2,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,807,Room 518 (Single Bed),854,518-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,808,Room 519 (Single Bed),855,519-1,Vacant Dirty
+6,461,Fifth Floor ST,788,ST Ward 5A,809,Room 520 (Single Bed),856,520-1,Occupied(Male)
+6,461,Fifth Floor ST,788,ST Ward 5A,810,Room 521 (Single Bed),857,521-1,Occupied(Female)
+6,461,Fifth Floor ST,788,ST Ward 5A,811,Room 522 (Double Bed),1522,522-1E,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,812,Room 523 (Double Bed),1523,523-1E,Available
+6,461,Fifth Floor ST,788,ST Ward 5A,813,Room 524 (Double Bed),1524,524-1E,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,823,Room 535-VS (Golden Suite Wing),1275,535-VS,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1639,Room 522 (Double Bed),1654,522-1,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1639,Room 522 (Double Bed),1655,522-2,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1639,Room 522 (Double Bed),1656,522-1E,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1640,Room 523 (Double Bed),1657,523-1,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1640,Room 523 (Double Bed),1658,523-2,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1640,Room 523 (Double Bed),1659,523-1E,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1641,Room 524 (Double Bed),1660,524-1,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1641,Room 524 (Double Bed),1661,524-2,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1641,Room 524 (Double Bed),1662,524-1E,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1642,Room 525 (Double Bed),1663,525-1,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1642,Room 525 (Double Bed),1664,525-2,Occupied(Female)
+6,461,Fifth Floor ST,789,ST Ward 5B,1643,Room 526 (Double Bed),1665,526-1,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1643,Room 526 (Double Bed),1666,526-2,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1644,Room 527 (Double Bed),1667,527-1,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1644,Room 527 (Double Bed),1668,527-2,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1645,Room 528 (Double Bed),1669,528-1,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1645,Room 528 (Double Bed),1670,528-2,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1646,Room 529 (Single Bed),1671,529-1,Occupied(Male)
+6,461,Fifth Floor ST,789,ST Ward 5B,1647,Room 530 (Single Bed),1672,530-1,Vacant Dirty
+6,461,Fifth Floor ST,789,ST Ward 5B,1648,Room 531 (Single Bed),1673,531-1,Occupied(Female)
+6,461,Fifth Floor ST,789,ST Ward 5B,1649,Room 532 (Single Bed),1674,532-1,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1650,Room 533 (Single Bed),1675,533-1,Occupied(Female)
+6,461,Fifth Floor ST,789,ST Ward 5B,1651,Room 536V-1 (VVIP Suite),1676,536V-1,Available
+6,461,Fifth Floor ST,789,ST Ward 5B,1652,Room 538V-1 (VVIP Suite),1677,538V-1,Occupied(Female)
+6,461,Fifth Floor ST,789,ST Ward 5B,1653,Room 535V-1 (VVIP Suite),1678,535V-1,Vacant Dirty
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),776,601-1,Occupied Discharge
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),777,601-2,Occupied(Male)
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),778,601-3,Available
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),779,601-4,Available
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),780,601-5,Occupied(Male)
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),781,601-6,Occupied(Male)
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),782,601-7,Available
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),783,601-8,Available
+6,462,Sixth Floor ST,774,ST ICU,775,ICU ST 1 (ICU/CCU),1230,601-3A,Occupied(Male)
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1025,102-1,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1026,102-2,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1027,102-3,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1028,102-4,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1029,102-5,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1030,102-6,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1031,102-7,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1032,102-8,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1033,102-9,Occupied Discharge
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1034,102-10,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1035,102-11,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1036,102-12,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1037,102-13,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1038,102-14,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1039,102-15,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1040,102-16,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1457,102-17,Vacant Dirty
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1458,102-18,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1459,102-19,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1460,102-20,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1461,102-21,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1462,102-22,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1463,102-23,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1464,102-24,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1465,102-25,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1466,102-26,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1467,102-27,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1468,102-28,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1469,102-29,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1470,102-30,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1471,102-31,Available
+8,880,First Floor OPC,1020,Daycare Endoscopy,1414,ROOM 102 (Day Care),1472,102-32,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),34,101-1,Occupied Discharge
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),35,101-1P,Occupied Discharge
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),36,101-2,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),37,101-2P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),38,101-3,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),39,101-3P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),40,101-5,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),41,101-5P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),42,101-6,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),43,101-6P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),44,101-7,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),45,101-7P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),46,101-8,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),47,101-8P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),48,101-9,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),49,101-9P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),50,101-10,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),51,101-10P,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),52,101-11,Vacant Dirty
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),53,101-11P,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),54,101-12,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),55,101-12P,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),56,101-13P,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),57,101-15P,Available
+5,9,First Floor NT,32,Daycare Surgery,33,Daycare NT (Day Care),58,101-16P,Available
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),61,250-1,Occupied(Male)
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),62,250-2,Occupied(Female)
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),63,250-3,Occupied(Female)
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),64,250-5,Occupied(Female)
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),65,250-6,Available
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),66,250-7,Occupied(Female)
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),67,250-8,Available
+5,10,Second Floor NT,59,NT ICU,60,ICU NT  (ICU/CCU),68,250-9,Available
+5,10,Second Floor NT,74,NT Ward 2D,84,Room 255 (Single Executive),85,255-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,86,Room 256 (Double Bed),110,256-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,86,Room 256 (Double Bed),111,256-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,87,Room 257 (Double Bed),112,257-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,87,Room 257 (Double Bed),113,257-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,88,Room 258 (Double Bed),114,258-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,88,Room 258 (Double Bed),115,258-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,89,Room 260 (Single Bed),116,260-1,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,90,Room 261 (Single Bed),117,261-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,91,Room 262 (Single Bed),118,262-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,92,Room 263 (Single Bed),119,263-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,93,Room 264 (Single Bed),120,264-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,94,Room 265 (Single Bed),121,265-1,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,95,Room 266 (Single Bed),122,266-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,96,Room 267 (Single Bed),123,267-1,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,97,Room 268 (Suite),124,268-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,98,Room 269 (Single Bed),125,269-1,Vacant Dirty
+5,10,Second Floor NT,74,NT Ward 2D,99,Room 270 (Single Bed),126,270-1,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,100,Room 271 (Single Bed),127,271-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,101,Room 272 (Single Bed),128,272-1,Occupied Discharge
+5,10,Second Floor NT,74,NT Ward 2D,102,Room 273 (Four Bedded),129,273-3,Available
+5,10,Second Floor NT,74,NT Ward 2D,102,Room 273 (Four Bedded),130,273-4,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,103,Room 274 (Double Bed),131,274-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,103,Room 274 (Double Bed),132,274-2,Vacant Dirty
+5,10,Second Floor NT,74,NT Ward 2D,104,Room 275 (Double Bed),133,275-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,104,Room 275 (Double Bed),134,275-2,Vacant Dirty
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),135,276-1,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),136,276-2,Occupied(Female)
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),153,276-3,Available
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),154,276-4,Available
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),155,276-5,Available
+5,10,Second Floor NT,74,NT Ward 2D,105,Room 276 (Phototherapy),156,276-6,Available
+5,10,Second Floor NT,74,NT Ward 2D,106,Room 277 (Double Bed),137,277-1,Vacant Dirty
+5,10,Second Floor NT,74,NT Ward 2D,106,Room 277 (Double Bed),138,277-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,107,Room 278 (Single Bed),139,278-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,108,Room 279 (Single Bed),140,279-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,109,Room 280 (Single Bed),141,280-1,Occupied(Male)
+5,10,Second Floor NT,74,NT Ward 2D,143,Room 281 (Suite),157,281-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,144,Room 282 (Suite),158,282-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,145,Room 283 (Single Bed),159,283-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,146,Room 284 (Single Bed),160,284-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,147,Room 285 (Single Bed),161,285-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,148,Room 288 (Double Bed),162,288-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,148,Room 288 (Double Bed),163,288-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,148,Room 288 (Double Bed),1750,288-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,149,Room 289 (Double Bed),164,289-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,149,Room 289 (Double Bed),165,289-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,149,Room 289 (Double Bed),1751,289-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),166,290-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),167,290-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,150,Room 290 (Double Bed),1752,290-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),168,291-1,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),169,291-2,Available
+5,10,Second Floor NT,74,NT Ward 2D,151,Room 291 (Double Bed),1753,291-S,Available
+5,10,Second Floor NT,74,NT Ward 2D,1403,Room 292-1E (Single Executive),1404,292-1E,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),70,251-1,Occupied(Female)
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),71,251-2,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),72,251-3,Available
+5,10,Second Floor NT,69,NT NICU,1442,NICU NT (NICU),73,251-5,Occupied(Male)
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1059,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1060,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1061,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1062,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1063,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1064,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1065,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1066,,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1483,D 299-1,Vacant Dirty
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1484,D 299-2,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1485,D 299-3,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1486,D 299-4,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1487,D 299-5,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1488,D 299-6,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1489,D 299-7,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1490,D 299-8,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1491,D 299-9,Available
+5,10,Second Floor NT,1058,NT Admission Lounge,1450,Room 299 (Admission Lounge),1492,D 299-10,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1353,252-1,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1354,252-2,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1355,252-3,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1370,252-5,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1371,252-6,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1372,252-7,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1373,252-8,Available
+5,10,Second Floor NT,1352,NT Paed HDU,1507,NT PAED HDU (HDU),1374,252-9,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),175,350-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),176,350-2,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),177,350-3,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),178,350-4,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),179,350-5,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),180,350-7,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),181,350-6,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),182,350-8,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),183,350-9,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),184,350-10,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),185,350-11,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),186,350-12,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),187,350-13,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),188,350-14,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),189,350-15,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),190,350-16,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),191,350-17,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),192,350-18,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),193,350-19,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),194,350-20,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),195,350-21,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),196,350-22,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),197,350-23,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),198,350-24,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),199,350-25,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),200,350-26,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),201,350-27,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),202,350-28,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),203,350-29,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),204,350-30,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),205,350-31,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),206,350-32,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),207,350-33,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),208,350-34,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),209,350-35,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),210,350-36,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),211,350-37,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),212,350-38,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),213,350-39,Available
+5,11,Third Floor NT,171,NT Nursery,172,Room 350 (Nursery Bed),214,350-40,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),235,351-1,Occupied(Male)
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),236,351-2,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),237,351-3,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),238,351-4,Available
+5,11,Third Floor NT,171,NT Nursery,173,Room 351 (Incubator),239,351-5,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),240,352-1,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),241,352-2,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),242,352-3,Available
+5,11,Third Floor NT,171,NT Nursery,174,Room 352 (NHDU),243,352-4,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),272,353-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),273,353-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,244,Room 353 (Double Bed),1694,353-1E,Available
+5,11,Third Floor NT,245,NT Ward 3D,246,Room 354 (Double Bed),274,354-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,246,Room 354 (Double Bed),275,354-2,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,247,Room 355 (Single Bed),276,355-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,248,Room 356 (Single Bed),278,356-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,249,Room 357 (Single Bed),279,357-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,250,Room 358 (Single Bed),280,358-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,251,Room 359 (Single Bed),281,359-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,252,Room 360 (Single Bed),282,360-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,253,Room 361 (Single Bed),283,361-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,254,Room 362 (Single Bed),284,362-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,255,Room 363 (Single Bed),285,363-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,256,Room 364 (Single Bed),286,364-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,257,Room 365 (Suite),287,365-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,257,Room 365 (Suite),1773,365-P,Available
+5,11,Third Floor NT,245,NT Ward 3D,258,Room 366 (Single Bed),288,366-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,259,Room 367 (Single Bed),289,367-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,260,Room 368 (Single Bed),290,368-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,261,Room 369 (Single Bed),291,369-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,262,Room 370 (Double Bed),292,370-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,262,Room 370 (Double Bed),1272,370-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,263,Room 371 (Double Bed),293,371-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,263,Room 371 (Double Bed),294,371-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),295,372-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),296,372-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,264,Room 372 (Double Bed),1695,372-1E,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),297,373-1,Available
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),298,373-2,Available
+5,11,Third Floor NT,245,NT Ward 3D,265,Room 373 (Double Bed),1696,373-1E,Available
+5,11,Third Floor NT,245,NT Ward 3D,266,Room 374 (Double Bed),299,374-1,Vacant Dirty
+5,11,Third Floor NT,245,NT Ward 3D,266,Room 374 (Double Bed),300,374-2,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,267,Room 375 (Double Bed),301,375-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,267,Room 375 (Double Bed),302,375-2,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,268,Room 376 (Single Bed),303,376-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,269,Room 377 (Single Bed),304,377-1,Occupied(Female)
+5,11,Third Floor NT,245,NT Ward 3D,270,Room 378 (Single Bed),305,378-1,Occupied Discharge
+5,11,Third Floor NT,245,NT Ward 3D,271,Room 379 (Single Bed),306,379-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1338,349-1,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1339,349-2,Vacant Dirty
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1340,349-3,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1341,349-4,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1342,349-5,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1343,349-6,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1344,349-7,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1345,349-8,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1346,349-9,Available
+5,11,Third Floor NT,171,NT Nursery,1337,Room 349 (Phototherapy),1347,349-10,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1067,490-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1262,490-13,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1263,490-14,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1264,490-15,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1265,490-16,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1266,490-17,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1267,490-18,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1268,490-19,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1269,490-20,Available
+5,12,Fourth Floor NT,307,NT Labour Room,309,Room 490 (Observation Room),1329,490-2,Available
+5,12,Fourth Floor NT,307,NT Labour Room,310,Room 491 (Observation Room),1068,491-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1069,495-1,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1070,495-2,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1071,495-3,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1072,495-3A,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1073,495-5,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1074,495-6,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1075,495-7,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1076,495-8,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1077,495-9,Available
+5,12,Fourth Floor NT,307,NT Labour Room,311,Room 495 (Delivery Bed),1078,495-10,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,312,Room 451 (Single Bed),336,451-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,313,Room 452 (Single Bed),337,452-1,Occupied(Male)
+5,12,Fourth Floor NT,308,NT Ward 4D,314,Room 453 (Single Bed),338,453-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,314,Room 453 (Single Bed),1328,453A-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,315,Room 454 (Single Bed),339,454-1,Blocked
+5,12,Fourth Floor NT,308,NT Ward 4D,316,Room 455 (Single Bed),340,455-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,317,Room 456 (Single Bed),341,456-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,318,Room 457 (Single Bed),342,457-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,319,Room 458 (Single Bed),343,458-1,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,320,Room 459 (Suite),344,459-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,321,Room 460 (Single Bed),345,460-1,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,322,Room 461 (Single Bed),346,461-1,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,323,Room 462 (Single Bed),347,462-1,Occupied(Female)
+5,12,Fourth Floor NT,308,NT Ward 4D,324,Room 463 (Single Bed),348,463-1,Occupied(Female)
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),349,464-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),350,464-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,325,Room 464 (Double Bed),1766,464-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),351,465-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),352,465-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,326,Room 465 (Double Bed),1767,465-SS,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),353,466-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),354,466-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,327,Room 466 (Double Bed),1768,466-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),355,467-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),356,467-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,328,Room 467 (Double Bed),1769,467-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),357,468-1,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),358,468-2,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,329,Room 468 (Double Bed),1770,468-SS,Vacant Dirty
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),359,469-3,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),360,469-4,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,330,Room 469 (Four Bedded),1771,469-S,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),361,470-3,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),362,470-4,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,331,Room 470 (Four Bedded),1772,470-S,Occupied Discharge
+5,12,Fourth Floor NT,308,NT Ward 4D,332,Room 471 (Executive Suite),1225,471-1E,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,333,Room 472 (Executive Suite),1226,472-1E,Available
+5,12,Fourth Floor NT,308,NT Ward 4D,334,Room 450 (Single Bed),335,450-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,366,Room 550 (Single Bed),386,550-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,367,Room 551 (Single Bed),387,551-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,368,Room 552 (Single Bed),388,552-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,369,Room 553 (Single Bed),389,553-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,370,Room 554 (Single Bed),390,554-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,371,Room 555 (Single Bed),391,555-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,372,Room 556 (Single Bed),392,556-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,373,Room 557 (Single Bed),393,557-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,374,Room 558 (Single Bed),394,558-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,375,Room 559 (Single Bed),395,559-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,376,Room 560 (Single Bed),396,560-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,377,Room 561 (Single Bed),397,561-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,378,Room 562 (Single Bed),398,562-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,379,Room 563 (Double Bed),399,563-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,379,Room 563 (Double Bed),400,563-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,380,Room 564 (Double Bed),401,564-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,380,Room 564 (Double Bed),402,564-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,381,Room 565 (Four Bedded),403,565-3,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,381,Room 565 (Four Bedded),404,565-4,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,382,Room 566 (Double Bed),405,566-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,382,Room 566 (Double Bed),406,566-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,383,Room 567 (Double Bed),407,567-1,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,383,Room 567 (Double Bed),408,567-2,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,384,Room 568 (Four Bedded),409,568-3,Available
+5,13,Fifth Floor NT,365,NT Ward 5C,384,Room 568 (Four Bedded),410,568-4,Available
+5,13,Fifth Floor NT,411,NT Ward 5D,412,Room 569 (Single Bed),432,569-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,413,Room 570 (Single Bed),433,570-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,414,Room 571 (Single Bed),434,571-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,415,Room 572 (Single Bed),435,572-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,416,Room 573 (Single Bed),436,573-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,417,Room 574 (Single Bed),437,574-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,418,Room 575 (Single Bed),438,575-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,419,Room 576 (Single Bed),439,576-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,420,Room 577 (Single Bed),440,577-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,421,Room 578 (Suite),441,578-1,Occupied Discharge
+5,13,Fifth Floor NT,411,NT Ward 5D,422,Room 579 (Single Bed),442,579-1,Vacant Dirty
+5,13,Fifth Floor NT,411,NT Ward 5D,423,Room 580 (Single Bed),443,580-1,Occupied(Male)
+5,13,Fifth Floor NT,411,NT Ward 5D,424,Room 581 (Single Bed),444,581-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,425,Room 582 (Single Bed),445,582-1,Occupied(Female)
+5,13,Fifth Floor NT,411,NT Ward 5D,426,Room 583 (Four Bedded),446,583-3,Vacant Dirty
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan
+,,,,,,,,,nan

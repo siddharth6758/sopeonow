@@ -1,0 +1,6 @@
+<h1>Welcome to your Django project!</h1>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ input_form.as_p }}
+    <button type="submit">Upload CSV</button>
+</form>
