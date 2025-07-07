@@ -1,6 +1,24 @@
-<h1>Welcome to your Django project!</h1>
-<form method="POST" enctype="multipart/form-data">
-    {% csrf_token %}
-    {{ input_form.as_p }}
-    <button type="submit">Upload CSV</button>
-</form>
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hospital Bed Dashboard</title>
+    <link rel="stylesheet" href="{% static 'css/dashboard.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>🏥 Hospital Bed Dashboard</h1>
+
+        <section class="upload-section">
+            <h2>📤 Upload Bed Data</h2>
+            <form method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ input_form.as_p }}
+                <button type="submit">Upload CSV</button>
+            </form>
+        </section>
+
+    </div>
+</body>
+</html>
