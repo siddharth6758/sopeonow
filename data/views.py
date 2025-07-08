@@ -7,6 +7,7 @@ def home(request):
     if request.method == "POST":
         csv_file = request.FILES.get("csv_file")
         data = pd.read_csv(csv_file)
+        data = data.dropna()
         print('\n\nDATA:\n',data)
         return JsonResponse({})
     else:

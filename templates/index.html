@@ -5,20 +5,28 @@
     <meta charset="UTF-8">
     <title>Hospital Bed Dashboard</title>
     <link rel="stylesheet" href="{% static 'css/dashboard.css' %}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
     <div class="container">
         <h1>🏥 Hospital Bed Dashboard</h1>
-
+        {% block content %}
         <section class="upload-section">
             <h2>📤 Upload Bed Data</h2>
             <form method="POST" enctype="multipart/form-data">
                 {% csrf_token %}
                 {{ input_form.as_p }}
-                <button type="submit">Upload CSV</button>
+                <button type="submit" id="upload-csv">Upload CSV</button>
+                <button id="load-data">Show Last Uploaded Data</button>
             </form>
         </section>
-
+        {% endblock content %}
     </div>
+    <div class="loader-div" style="display: none;">
+        <div class="loader" id="loader"></div>
+        <span class="loading-label">Please wait...</span>
+    </div>
+    <script src="{% static 'js/main.js' %}"></script>
 </body>
+
 </html>
