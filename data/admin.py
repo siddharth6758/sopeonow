@@ -8,20 +8,25 @@ from .models import (
 )
 class BuildingRecordsAdmin(admin.ModelAdmin):
     list_display = ["id", "key"]
+    search_fields = ["key"]
 
 
 class FloorRecordsAdmin(admin.ModelAdmin):
     list_display = ["key", "name", "building"]
+    search_fields = ["key", "name", "building__key"]
 
 
 class NurseRecordsAdmin(admin.ModelAdmin):
     list_display = ["key", "name"]
+    search_fields = ["key", "name"]
 
 class RoomRecordsAdmin(admin.ModelAdmin):
     list_display = ["key", "name", "floor", "nurse"]
+    search_fields = ["key", "name", "floor__name", "nurse__name"]
 
 class BedRecordsAdmin(admin.ModelAdmin):
     list_display = ["key", "name", "status", "room"]
+    search_fields = ["key", "name", "status", "room__name"]
 
 
 
