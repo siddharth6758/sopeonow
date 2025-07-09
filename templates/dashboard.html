@@ -1,0 +1,19 @@
+{% extends 'index.html' %}
+{% load static %}
+
+
+{% block content %}
+    <section class="upload-section">
+        <h2>📤 Upload Bed Data</h2>
+    </section>
+{% endblock content %}
+
+
+{% block scripts %}
+<script>
+  $(document).ready(function () {
+    $('.loader-div').hide();
+    $('.container').fadeIn();
+  });
+</script>
+{% endblock scripts %}
