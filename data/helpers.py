@@ -1,3 +1,4 @@
+from django.db.models import Count
 from .models import (
     BuildingRecords,
     FloorRecords,
@@ -129,3 +130,12 @@ def upload_data_to_db(data):
     upload_nursing_records(data[["NURSEKEY","NURSENAME"]].drop_duplicates())
     upload_room_records(data[["FLOORKEY","NURSEKEY","NURSENAME","ROOMKEY","ROOMNAME"]].drop_duplicates())
     upload_bed_records(data[["ROOMKEY","BEDKEY","BEDNAME","BEDSTATUS"]].drop_duplicates())
+
+
+def get_dashboard_data():
+    data = {}
+    nurse_bed_count = NurseRecords.objects.annotate(
+        bed_count=Count("rooms__beds")
+    ).values_list("key","name","bed_count")
+    print(nurse_bed_count)
+    return data

@@ -1,7 +1,7 @@
 import pandas as pd
 from django.shortcuts import render
 from .forms import CSVUploadForm
-from .helpers import handle_keys, upload_data_to_db
+from .helpers import handle_keys, upload_data_to_db, get_dashboard_data
 
 def home(request):
     if request.method == "POST":
@@ -15,6 +15,7 @@ def home(request):
         data = handle_keys(data, "ROOMKEY")
         data = handle_keys(data, "BEDKEY")
         upload_data_to_db(data)
+        data_rec = get_dashboard_data()
         return render(request, 'dashboard.html', context={
             "data":data.to_html()
         })
