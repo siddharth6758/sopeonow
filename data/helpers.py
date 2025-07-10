@@ -1,4 +1,3 @@
-import pandas as pd
 from .models import (
     BuildingRecords,
     FloorRecords,
@@ -6,6 +5,7 @@ from .models import (
     RoomRecords,
     BedRecords
 )
+from .utils import BED_STATUS
 
 def remove_invalid_str_keys(value):
     try:
@@ -14,6 +14,8 @@ def remove_invalid_str_keys(value):
     except Exception:
         return False
 
+def handle_keys(df, column):
+    return df[df[column].apply(remove_invalid_str_keys)]
 
 def upload_building_records(data):
     existing_keys = BuildingRecords.objects.filter(key__in=data.unique()).values_list("key",flat=True)
@@ -27,8 +29,9 @@ def upload_building_records(data):
 
 def upload_floor_records(data):
     key_list = data["FLOORKEY"].unique()
-    existing_keys = FloorRecords.objects.filter(key__in=key_list).values_list("key",flat=True)
-    existing_object_map = {obj.key: obj for obj in FloorRecords.objects.filter(key__in=key_list)}
+    floor_query = FloorRecords.objects.filter(key__in=key_list)
+    existing_keys = floor_query.values_list("key",flat=True)
+    existing_object_map = {obj.key: obj for obj in floor_query}
 
     floor_records = []
     floor_records_update = []
@@ -90,10 +93,34 @@ def upload_room_records(data):
     elif room_records_update:
         RoomRecords.objects.bulk_update(room_records_update,["name", "floor", "nurse"])
 
-#['BUILDINGKEY', 'FLOORKEY', 'FLOORNAME', 'NURSEKEY', 'NURSENAME', 'ROOMKEY', 'ROOMNAME', 'BEDKEY', 'BEDNAME', 'BEDSTATUS']
 
-def handle_keys(df, column):
-    return df[df[column].apply(remove_invalid_str_keys)]
+def upload_bed_records(data):
+    key_list = data["BEDKEY"].unique()
+    bed_query = BedRecords.objects.filter(key__in=key_list)
+    existing_keys = bed_query.values_list("key",flat=True)
+    existing_object_map = {obj.key: obj for obj in bed_query}
+
+    floor_records = []
+    floor_records_update = []
+
+    for row in data.itertuples():
+        room_obj,_ = RoomRecords.objects.get_or_create(key=int(row.ROOMKEY))
+        status_key = next((key for key, value in BED_STATUS if value == row.BEDSTATUS), None)
+        if int(row.BEDKEY) in existing_keys:
+            floor_instance = existing_object_map[int(row.BEDKEY)]
+            floor_instance.name = row.BEDNAME
+            floor_instance.status = status_key
+            floor_instance.room = room_obj
+            floor_records_update.append(floor_instance)
+        else:
+            floor_records.append(
+                BedRecords(key=int(row.BEDKEY), name=row.BEDNAME, status=status_key, room=room_obj)
+            )
+
+    if floor_records:
+        BedRecords.objects.bulk_create(floor_records)
+    elif floor_records_update:
+        BedRecords.objects.bulk_update(floor_records_update,["name", "status","room"])
 
 
 def upload_data_to_db(data):
@@ -101,3 +128,4 @@ def upload_data_to_db(data):
     upload_floor_records(data[["BUILDINGKEY","FLOORKEY","FLOORNAME"]].drop_duplicates())
     upload_nursing_records(data[["NURSEKEY","NURSENAME"]].drop_duplicates())
     upload_room_records(data[["FLOORKEY","NURSEKEY","NURSENAME","ROOMKEY","ROOMNAME"]].drop_duplicates())
+    upload_bed_records(data[["ROOMKEY","BEDKEY","BEDNAME","BEDSTATUS"]].drop_duplicates())

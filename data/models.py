@@ -51,7 +51,7 @@ class RoomRecords(models.Model):
 class BedRecords(models.Model):
     key = models.IntegerField(max_length=10, unique=True)
     name = models.CharField(max_length=255, null=True, blank=True)
-    status = models.CharField(max_length=255, choices=BED_STATUS, default="nan")
+    status = models.CharField(max_length=255, choices=BED_STATUS, default="nan", null=True, blank=True)
     room = models.ForeignKey(RoomRecords, on_delete=models.CASCADE, related_name='beds')
 
     def __str__(self):
