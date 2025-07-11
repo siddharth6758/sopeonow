@@ -137,5 +137,11 @@ def get_dashboard_data():
     nurse_bed_count = NurseRecords.objects.annotate(
         bed_count=Count("rooms__beds")
     ).values_list("key","name","bed_count")
-    print(nurse_bed_count)
+    room_bed_count = RoomRecords.objects.annotate(
+        bed_count=Count("beds")
+    ).values_list("key","name","bed_count")
+    bed_status_count = BedRecords.objects.values("status").annotate(
+        bed_count=Count("status")
+    ).values_list("status","bed_count")
+
     return data
