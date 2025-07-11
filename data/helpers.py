@@ -1,4 +1,5 @@
 from django.db.models import Count
+from django.db.models import Q
 from .models import (
     BuildingRecords,
     FloorRecords,
@@ -137,11 +138,25 @@ def get_dashboard_data():
     nurse_bed_count = NurseRecords.objects.annotate(
         bed_count=Count("rooms__beds")
     ).values_list("key","name","bed_count")
+
     room_bed_count = RoomRecords.objects.annotate(
         bed_count=Count("beds")
     ).values_list("key","name","bed_count")
+
     bed_status_count = BedRecords.objects.values("status").annotate(
         bed_count=Count("status")
     ).values_list("status","bed_count")
 
+    total_bed_count = BedRecords.objects.count()
+    occupied_bed_count = BedRecords.objects.filter(status__icontains="occupied").count()
+    occupied_percentage = round((occupied_bed_count/total_bed_count)*100 if total_bed_count > 0 else 0, 2)
+
+    nurse_occupancy_count = NurseRecords.objects.annotate(
+        occupied_count=Count("rooms__beds", filter=Q(rooms__beds__status__icontains="occupied"))
+    ).values_list("key","name","occupied_count")
+
+    room_occupancy_count = RoomRecords.objects.annotate(
+        occupied_count=Count("beds", filter=Q(beds__status__icontains="occupied"))
+    ).values_list("key","name","occupied_count")
+    print(room_occupancy_count,end="\n")
     return data
