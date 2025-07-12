@@ -1,4 +1,4 @@
-from django.db.models import Count
+from django.db.models import Count, F
 from django.db.models import Q
 from .models import (
     BuildingRecords,
@@ -134,7 +134,6 @@ def upload_data_to_db(data):
 
 
 def get_dashboard_data():
-    data = {}
     nurse_bed_count = NurseRecords.objects.annotate(
         bed_count=Count("rooms__beds")
     ).values_list("key","name","bed_count")
@@ -158,5 +157,25 @@ def get_dashboard_data():
     room_occupancy_count = RoomRecords.objects.annotate(
         occupied_count=Count("beds", filter=Q(beds__status__icontains="occupied"))
     ).values_list("key","name","occupied_count")
-    print(room_occupancy_count,end="\n")
+
+    nurse_bed_status_count = NurseRecords.objects.values("key","name","rooms__beds__status").annotate(
+        bed_status_count=Count("rooms__beds")
+    ).order_by("key","name","rooms__beds__status")
+
+    room_bed_status_count = RoomRecords.objects.values('key', 'name', 'beds__status').annotate(
+        status_count=Count('beds')
+    ).order_by('key', 'beds__status')
+
+    data = {
+        "nurse_bed_count": list(nurse_bed_count),
+        "room_bed_count": list(room_bed_count),
+        "bed_status_count": list(bed_status_count),
+        "total_bed_count": total_bed_count,
+        "occupied_bed_count": occupied_bed_count,
+        "occupied_percentage": occupied_percentage,
+        "nurse_occupancy_count": list(nurse_occupancy_count),
+        "room_occupancy_count": list(room_occupancy_count),
+        "nurse_bed_status_count": list(nurse_bed_status_count),
+        "room_bed_status_count": list(room_bed_status_count)
+    }
     return data

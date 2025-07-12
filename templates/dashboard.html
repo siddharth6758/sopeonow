@@ -1,19 +1,210 @@
 {% extends 'index.html' %}
 {% load static %}
-
+{% load template_filters %}
 
 {% block content %}
-    <section class="upload-section">
-        <h2>📤 Upload Bed Data</h2>
-    </section>
-{% endblock content %}
+  <a href="{% url 'home' %}" class="back-button">← Back</a>
+  <section class="upload-section">
+    {% if has_records %}
+      <div class="dashboard-tables">
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>🩺 Bed Count in each Ward</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Nurse Key</th>
+                  <th>Nurse Name</th>
+                  <th>Bed Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.nurse_bed_count %}
+                  <tr>
+                    <td>{{ row.0 }}</td>
+                    <td>{{ row.1 }}</td>
+                    <td>{{ row.2 }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
 
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>🚪 Bed Count in each Room</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Room Key</th>
+                  <th>Room Name</th>
+                  <th>Bed Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.room_bed_count %}
+                  <tr>
+                    <td>{{ row.0 }}</td>
+                    <td>{{ row.1 }}</td>
+                    <td>{{ row.2 }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>📊 Status-wise Bed Count</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Status</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.bed_status_count %}
+                  <tr>
+                    <td>{{ row.0 }}</td>
+                    <td>{{ row.1 }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>📋 Occupancy Stats</button>
+          <div class="collapsible-content">
+            <ul class="summary-list">
+              <li>
+                <strong>Total Beds:</strong> {{ data.total_bed_count }}
+              </li>
+              <li>
+                <strong>Occupied Beds:</strong> {{ data.occupied_bed_count }}
+              </li>
+              <li>
+                <strong>Occupancy:</strong> {{ data.occupied_percentage }}%
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>👩‍⚕️ Nurse-wise Occupancy</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Nurse Key</th>
+                  <th>Nurse Name</th>
+                  <th>Occupied Beds Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.nurse_occupancy_count %}
+                  <tr>
+                    <td>{{ row.0 }}</td>
+                    <td>{{ row.1 }}</td>
+                    <td>{{ row.2 }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>🛏️ Room-wise Occupancy</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Room Key</th>
+                  <th>Room Name</th>
+                  <th>Occupied Beds Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.room_occupancy_count %}
+                  <tr>
+                    <td>{{ row.0 }}</td>
+                    <td>{{ row.1 }}</td>
+                    <td>{{ row.2 }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>📦 Nurse-wise Bed Status Count</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Nurse Key</th>
+                  <th>Nurse Name</th>
+                  <th>Bed Status</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.nurse_bed_status_count %}
+                  <tr>
+                    <td>{{ row.key }}</td>
+                    <td>{{ row.name }}</td>
+                    <td>{{ bed_status|dict_lookup:row.rooms__beds__status }}</td>
+                    <td>{{ row.bed_status_count }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="collapsible-section">
+          <button class="collapsible-toggle"><span class="arrow">&#9654;</span>🏠 Room-wise Bed Status Count</button>
+          <div class="collapsible-content">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>Room Key</th>
+                  <th>Room Name</th>
+                  <th>Bed Status</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in data.room_bed_status_count %}
+                  <tr>
+                    <td>{{ row.key }}</td>
+                    <td>{{ row.name }}</td>
+                    <td>{{ bed_status|dict_lookup:row.beds__status }}</td>
+                    <td>{{ row.status_count }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    {% else %}
+      <h2>No records found. Please upload data to view the dashboard.</h2>
+    {% endif %}
+  </section>
+{% endblock %}
 
 {% block scripts %}
-<script>
-  $(document).ready(function () {
-    $('.loader-div').hide();
-    $('.container').fadeIn();
-  });
-</script>
-{% endblock scripts %}
+  <script>
+    $(document).ready(function () {
+      $('.loader-div').hide()
+      $('.container').fadeIn()
+    })
+  </script>
+{% endblock %}
