@@ -6,25 +6,30 @@ from .helpers import handle_keys, upload_data_to_db, get_dashboard_data
 
 def home(request):
     if request.method == "POST":
-        csv_file = request.FILES.get("csv_file")
-        data = pd.read_csv(csv_file)
-        has_records = False
-        data = data.dropna()
-        data = handle_keys(data, "BUILDINGKEY")
-        data = handle_keys(data, "FLOORKEY")
-        data = handle_keys(data, "NURSEKEY")
-        data = handle_keys(data, "ROOMKEY")
-        data = handle_keys(data, "BEDKEY")
-        upload_data_to_db(data)
-        data_rec = get_dashboard_data()
-        for val in data_rec.values():
-            if val:
-                has_records = True
-        return render(request, 'dashboard.html', context={
-            "data": data_rec,
-            "bed_status": dict(BED_STATUS),
-            "has_records": has_records
-        })
+        csv_file = CSVUploadForm(request.POST, request.FILES)
+        if csv_file.is_valid():
+            data = pd.read_csv(csv_file.files.get("csv_file"))
+            has_records = False
+            data = data.dropna()
+            data = handle_keys(data, "BUILDINGKEY")
+            data = handle_keys(data, "FLOORKEY")
+            data = handle_keys(data, "NURSEKEY")
+            data = handle_keys(data, "ROOMKEY")
+            data = handle_keys(data, "BEDKEY")
+            upload_data_to_db(data)
+            data_rec = get_dashboard_data()
+            for val in data_rec.values():
+                if val:
+                    has_records = True
+            return render(request, 'dashboard.html', context={
+                "data": data_rec,
+                "bed_status": dict(BED_STATUS),
+                "has_records": has_records
+            })
+        else:
+            return render(request,'index.html', context={
+                "input_form": csv_file
+            })
     else:
         csv_form = CSVUploadForm()
         return render(request,'index.html', context={
